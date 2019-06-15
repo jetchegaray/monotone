@@ -11,8 +11,10 @@ Struture of your buckets
 
 I thinking of this struture for our entities in our project you can change it whatever you want 
 
- -- testing 
-    -- commerces
+ testing 
+	
+	-- testing
+   	 -- commerces
       -- {commerceid}
         -- logo.png
         -- another.png
@@ -23,14 +25,16 @@ I thinking of this struture for our entities in our project you can change it wh
         -- logo.jpg
         -- back.webp
  
-  -- production 
-    -- commerces
+  production
+		
+	--production
+		-- commerces
       -- {commerceid}
         -- logo.png
         -- another.png
         -- otherlogo.png
         -- front.png
-    -- users 
+   	 -- users 
       -- {userId}
         -- logo.jpg
         -- back.webp
