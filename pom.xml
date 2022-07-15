@@ -20,7 +20,7 @@
     	<tomcat.version>8.0.3</tomcat.version>
     	<fasterxml.version>2.7.4</fasterxml.version>
     	<failOnMissingWebXml>false</failOnMissingWebXml>
-    	<s3.version>1.11.86</s3.version>
+    	<s3.version>1.12.261</s3.version>
     	<webrunner.version>8.5.15.0</webrunner.version>
     	
    	 	<full-artifact-name>target/${project.artifactId}-${project.version}.jar</full-artifact-name>
