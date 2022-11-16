@@ -18,7 +18,7 @@
     	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     	<start-class>ar.com.autominuto.monotone.service.initializacion.Application</start-class>
     	<tomcat.version>8.0.3</tomcat.version>
-    	<fasterxml.version>2.7.4</fasterxml.version>
+    	<fasterxml.version>2.12.7.1</fasterxml.version>
     	<failOnMissingWebXml>false</failOnMissingWebXml>
     	<s3.version>1.11.86</s3.version>
     	<webrunner.version>8.5.15.0</webrunner.version>
